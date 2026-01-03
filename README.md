@@ -88,52 +88,7 @@ streamlit run app.py
 python -m src.main
 ```
 
----
 
-## 📋 Output Format
-
-### Medical Summary
-```json
-{
-  "Patient_Name": "Janet Jones",
-  "Symptoms": ["Headache", "Nausea"],
-  "Diagnosis": ["Migraine"],
-  "Treatment": ["Sumatriptan", "Paracetamol"],
-  "Prognosis": "I hope to recover in a few days"
-}
-```
-
-### Sentiment Analysis
-```json
-{
-  "Sentiment": "Anxious",
-  "Intent": "Seeking reassurance"
-}
-```
-
-### SOAP Note
-```json
-{
-  "Subjective": {
-    "Chief_Complaint": "Headache, Nausea",
-    "History_of_Present_Illness": "Patient reports severe headache..."
-  },
-  "Objective": {
-    "Physical_Exam": "Vital signs stable.",
-    "Observations": "Patient is alert and oriented."
-  },
-  "Assessment": {
-    "Diagnosis": "Migraine",
-    "Severity": "Moderate"
-  },
-  "Plan": {
-    "Treatment": "Sumatriptan, Paracetamol",
-    "Follow-Up": "Recovery expected in a few days"
-  }
-}
-```
-
----
 
 ## ⚙️ Configuration
 
