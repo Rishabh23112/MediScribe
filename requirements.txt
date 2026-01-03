@@ -1,0 +1,10 @@
+torch
+transformers
+bert-extractive-summarizer
+spacy
+openai-whisper
+python-dotenv
+streamlit
+accelerate
+sentencepiece
+numpy
