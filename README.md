@@ -53,7 +53,7 @@ MediScribe/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/MediScribe.git
+git clone https://github.com/Rishabh23112/MediScribe.git
 cd MediScribe
 ```
 
