@@ -8,6 +8,13 @@ An intelligent medical transcription and NLP pipeline that converts physician-pa
 
 ---
 
+## Video
+
+
+https://github.com/user-attachments/assets/d4dcf92b-9e14-4edd-a792-40e09603c781
+
+
+
 ## ✨ Features
 
 | Feature | Description |
